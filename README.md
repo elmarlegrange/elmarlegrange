@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @elmarlegrange
+- 👋 Hi, I’m Elmar
 - 👀 I’m interested in clapping code
 - 🌱 I’m currently learning life
